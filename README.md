@@ -2,7 +2,7 @@
 
 ### Java Developer | Spring Boot | Building clean applications
 
-I enjoy learning how things work and turning that understanding into real projects using Java and Spring Boot.
+I'm strengthening my backend development skills by building useful projects, refining them, and writing cleaner code — one iteration at a time.
 
 ## 👨‍💻 Tech Stack
 
