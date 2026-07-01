@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hello 👋, I'm Prince Singh
 
-<!--
-**princegcs/princegcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Spring Boot | Building clean applications
 
-Here are some ideas to get you started:
+I enjoy learning how things work and turning that understanding into real projects using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Tech Stack
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate / JPA
+- REST APIs
+- JDBC
+- Servlet / JSP
+- MongoDB
+- MySQL
+- PostgreSQL
+- Maven
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Docker
+- Microservices
+- React
+
+## 🚀 Projects
+
+- Journal App
+- BitForward ([bitforward.tech](https://bitforward.tech))
+
+## 🎯 Current Focus
+
+- Improving Journal App
+- Building Json2Java utility
+- Strengthening backend fundamentals
+- Refreshing my GitHub profile with clean repositories
+
+## 📫 Connect with Me
+
+- LinkedIn: [princegcs](https://linkedin.com/in/princegcs)
+- Email: [prinncegcs@gmail.com](mailto:prinncegcs@gmail.com)
+
+⚡ **Fun fact:** 📦 All my college-day repositories and projects now live in a local archive.
+
+---
+
+> **Improving myself bit by bit — understanding, building, learning, and repeating.**
+
+> *Every project teaches me something new. I believe understanding comes first, building comes next, and learning never stops.*
