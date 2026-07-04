@@ -41,7 +41,7 @@ I'm strengthening my backend development skills by building useful projects, ref
 ## 📫 Connect with Me
 
 - LinkedIn: [princegcs](https://linkedin.com/in/princegcs)
-- Email: [princegcs@gmail.com](mailto:princegcs@gmail.com)
+- Email: [princegcsn@gmail.com](mailto:princegcsn@gmail.com)
 
 ⚡ **Fun fact:** 📦 All my college-day repositories and projects now live in a local archive.
 
